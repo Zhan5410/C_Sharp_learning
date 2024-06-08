@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteLineMyName", "WriteLin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestInteger", "TestInteger\TestInteger.csproj", "{EBD0E686-463E-4C3C-AFCF-DF38E164DE34}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "input_and_output", "input_and_output\input_and_output.csproj", "{92485B38-A127-4568-B4ED-6B29779F558E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aeiou", "aeiou\aeiou.csproj", "{37CDC3F6-E754-427E-BBB2-B49E8CB23B5E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{EBD0E686-463E-4C3C-AFCF-DF38E164DE34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBD0E686-463E-4C3C-AFCF-DF38E164DE34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBD0E686-463E-4C3C-AFCF-DF38E164DE34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92485B38-A127-4568-B4ED-6B29779F558E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92485B38-A127-4568-B4ED-6B29779F558E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92485B38-A127-4568-B4ED-6B29779F558E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92485B38-A127-4568-B4ED-6B29779F558E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37CDC3F6-E754-427E-BBB2-B49E8CB23B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37CDC3F6-E754-427E-BBB2-B49E8CB23B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37CDC3F6-E754-427E-BBB2-B49E8CB23B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37CDC3F6-E754-427E-BBB2-B49E8CB23B5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
